@@ -1,0 +1,22 @@
+﻿<Window x:Class="CenterOfMassFinder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CenterOfMassFinder"
+        mc:Ignorable="d"
+        Title="Rod Balancer" Height="191.4" Width="568.2" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label" Content="Rod length:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="RodLength_textBox" HorizontalAlignment="Left" Height="23" Margin="86.057,12.96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="1"/>
+        <Label x:Name="label_Copy" Content="Rod mass:" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="RodMass_textBox" HorizontalAlignment="Left" Height="23" Margin="86.057,40.96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="1"/>
+        <Label x:Name="label_Copy1" Content="Left mass:" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="LeftMass_textBox" HorizontalAlignment="Left" Height="23" Margin="86.057,68.96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="1"/>
+        <Label x:Name="label_Copy2" Content="Right mass:" HorizontalAlignment="Left" Margin="10,94,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="RightMass_textBox" HorizontalAlignment="Left" Height="23" Margin="86.057,96.96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="3"/>
+        <Button x:Name="Calculate_button" Content="Calculate" HorizontalAlignment="Left" Margin="10,124.96,0,0" VerticalAlignment="Top" Width="196.057" Click="Calculate_button_Click"/>
+        <TextBox x:Name="Results_TextBox" HorizontalAlignment="Left" Height="130.92" Margin="211.057,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="333.943" IsReadOnly="True"/>
+
+    </Grid>
+</Window>

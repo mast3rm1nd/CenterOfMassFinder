@@ -1,0 +1,13 @@
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\bin\Debug\CenterOfMassFinder.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\bin\Debug\CenterOfMassFinder.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\CenterOfMassFinder.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\CenterOfMassFinder_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\CenterOfMassFinder_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\CenterOfMassFinder.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\CenterOfMassFinder.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\CenterOfMassFinder.csproj.GenerateResource.Cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\CenterOfMassFinder.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CenterOfMassFinder\CenterOfMassFinder\obj\Debug\CenterOfMassFinder.pdb
